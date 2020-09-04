@@ -41,7 +41,7 @@
             </select>
         </div>
         </div>
-        <button type="submit" class="btn btn-primary">Edit</button>
+        <button name="upload" type="upload" class="btn btn-primary">Edit</button>
         </form>
     </div>
 </body>
